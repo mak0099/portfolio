@@ -1,0 +1,5 @@
+Framework : Laravel
+Database : MySQL
+Frontend : HTML5, CSS, Bootstrap
+JavaScript Libraries: jQuery
+Backend : PHP
