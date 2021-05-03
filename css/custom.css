@@ -1,3 +1,19 @@
 body{
   font-size: 14px;
 }
+.btn-outline-primary {
+  color: #2C3E50 ;
+  border-color: #18BC9C;
+  border-width: 0.1px;
+}
+
+.btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active {
+  background-color: #128f76;
+  border-color: #128f76;
+  color: #fff;
+}
+.mixitup-control-active {
+  background-color: #128f76;
+  border-color: #128f76;
+  color: #fff;
+}
